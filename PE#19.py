@@ -1,7 +1,3 @@
-#Implement a slice method for the UnorderedList class
-#It should take two parameters, start and stop
-#Return a copy of the list 
-
 class Node:
 
     def __init__(self, initdata):
