@@ -1,3 +1,7 @@
+# Implement a slice method for the UnorderedList class. 
+# It should take two parameters, start and stop, and return a copy of the list starting at the start position 
+# and going up to but not including the stop position.
+
 class Node:
 
     def __init__(self, initdata):
